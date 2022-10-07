@@ -1,0 +1,2 @@
+C:\Users\OMEN\source\repos\Tic Tac Toe Game\Tic Tac Toe Game\obj\Release\Tic Tac Toe Game.csproj.AssemblyReference.cache
+C:\Users\OMEN\source\repos\Tic Tac Toe Game\Tic Tac Toe Game\obj\Release\Tic Tac Toe Game.csproj.SuggestedBindingRedirects.cache
